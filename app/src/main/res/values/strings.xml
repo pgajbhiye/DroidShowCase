@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShowCaseSample</string>
+    <string name="guide">Guide</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome">Welcome to demo!</string>
+
+
+</resources>
